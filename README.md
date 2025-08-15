@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, my name's Dylan
+I am a Graduate Security and Communications Engineer with a focus on Microwave systems and communication metrology.
 
-<!--
-**DylanFleming/DylanFleming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DylanFleming&show_icons=true&theme=radical&count_private=true)
 
-Here are some ideas to get you started:
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=DylanFleming&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DylanFleming&theme=radical&no-frame=true&margin-w=15)
+
+## 📈 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=DylanFleming&color=blue)
+
+---
+
+### 📌 Fun Facts
+- 🔭 I’m currently working on my previous thesis project. This is an automatic calibration device for vector network analysers.
+- 🌱 I’m learning CISSP and CompTIA guidelines
+- 💬 Ask me about **communication metrology**
+- 📫 How to reach me: [GitHub Issues](https://github.com/DylanFleming/DylanFLeming/issues)
