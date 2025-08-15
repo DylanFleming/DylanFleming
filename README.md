@@ -1,22 +1,48 @@
-# Hi there, my name's Dylan
-I am a Graduate Security and Communications Engineer with a focus on Microwave systems and communication metrology.
+# Dylan Fleming — Graduate Security & Communications Engineer
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DylanFleming&show_icons=true&theme=radical&count_private=true)
-
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=DylanFleming&theme=radical)
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DylanFleming&theme=radical&no-frame=true&margin-w=15)
-
-## 📈 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=DylanFleming&color=blue)
+> _"The S in "IoT" stands for security."_  
 
 ---
 
-### 📌 Fun Facts
-- 🔭 I’m currently working on my previous thesis project. This is an automatic calibration device for vector network analysers.
-- 🌱 I’m learning CISSP and CompTIA guidelines
-- 💬 Ask me about **communication metrology**
-- 📫 How to reach me: [GitHub Issues](https://github.com/DylanFleming/DylanFLeming/issues)
+## Tech Arsenal
+
+### Languages
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=SQL)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+
+### Experience
+Vector Network Analyser metrology | 
+Database administration and security | 
+Microwave systems | 
+Embedded systems 
+
+---
+
+## Intel Feed
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DylanFleming&show_icons=true&theme=radical&count_private=true&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=DylanFleming&theme=radical&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=DylanFleming&theme=matrix&no-frame=true&margin-w=10&row=1)
+
+---
+
+## Signal Traffic
+
+![Profile Views](https://komarev.com/ghpvc/?username=DylanFleming&color=brightgreen)
+![Last Commit](https://img.shields.io/github/last-commit/DylanFleming/DylanFleming?color=red)
+
+---
+
+## Field Notes
+
+- 🔒 Designing **secure systems** for critical infrastructure.  
+- 📡 Engineering **communication systems and security solutions** in high-security environments.  
+- 🎯 Current focus: **CISSP and CompTIA Certification**.  
+
+---
